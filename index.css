@@ -1,0 +1,20 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.sub-container{
+    height: 15vh;
+    padding: 30px;
+    background-color: orange;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+.button-el{
+    border-style: none;
+    border-radius: 10px;
+    padding: 10px;
+}
